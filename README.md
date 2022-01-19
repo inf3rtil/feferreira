@@ -1,19 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Fernando 👋
 
-<!--
-**feferreira/feferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on embedded payment solutions.
+- 🌱 I’m currently learning data science and analytics
+- 👯 I’m looking to collaborate on open source software and hardware!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Fernando | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Fernando| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fernando | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages 
 
@@ -66,3 +61,6 @@ Here are some ideas to get you started:
 <img align="left" alt="rstudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 
+[youtube]https://www.youtube.com/channel/UCJ2AbrjkqMr-vv1coZO22pA
+[instagram]https://www.instagram.com/fernando.bsd/
+{linkedin]https://www.linkedin.com/in/fernandofs/
