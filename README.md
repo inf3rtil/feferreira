@@ -61,6 +61,6 @@
 <img align="left" alt="rstudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="vim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 
-[youtube]https://www.youtube.com/channel/UCJ2AbrjkqMr-vv1coZO22pA
-[instagram]https://www.instagram.com/fernando.bsd/
-{linkedin]https://www.linkedin.com/in/fernandofs/
+[youtube]:https://www.youtube.com/channel/UCJ2AbrjkqMr-vv1coZO22pA
+[instagram]:https://www.instagram.com/fernando.bsd/
+[linkedin]:https://www.linkedin.com/in/fernandofs/
