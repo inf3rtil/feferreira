@@ -1,7 +1,6 @@
 ### Hi there! I'm Fernando 👋
 
 - 🔭 I’m currently working on embedded payment solutions.
-- 🌱 I’m currently learning data science and analytics
 - 👯 I’m looking to collaborate on open source software and hardware!
 
 ### Connect with me:
