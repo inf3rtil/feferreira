@@ -1,7 +1,7 @@
-### Hi there! I'm Fernando 👋
+### Hi I'm Fernando
 
-- 🔭 I’m currently working on embedded payment solutions.
-- 👯 I’m looking to collaborate on open source software and hardware!
+- I’m currently working on embedded payment solutions.
+- I’m looking to collaborate on open source software and hardware!
 
 ### Connect with me:
 
